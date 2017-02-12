@@ -7,6 +7,7 @@
 #include 	<sys/socket.h>
 #include 	<netinet/in.h>
 #include 	<arpa/inet.h>
-#include 	<unistd.h> /* close */
+#include 	<unistd.h> 
+#include 	<string.h>
 
 #endif 		/*!SOCKET_H_*/
